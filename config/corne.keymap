@@ -142,8 +142,8 @@
             key-positions = <15 16>;
         };
 
-        delete {
-            bindings = <&kp DEL>;
+        backspace {
+            bindings = <&kp BACKSPACE>;
             key-positions = <21 20>;
         };
     };
