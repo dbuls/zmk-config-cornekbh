@@ -146,6 +146,11 @@
             bindings = <&kp BACKSPACE>;
             key-positions = <21 20>;
         };
+
+        capsword {
+            bindings = <&caps_word>;
+            key-positions = <12 13>;
+        };
     };
 
     //
