@@ -149,7 +149,7 @@
 
         capsword {
             bindings = <&caps_word>;
-            key-positions = <12 13>;
+            key-positions = <13 14>;
         };
     };
 
