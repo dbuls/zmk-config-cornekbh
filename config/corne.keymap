@@ -183,7 +183,7 @@
 &trans      &trans  &kp N7  &kp N8  &kp N9            &kp N0           &kp MINUS       &kp PLUS       &kp STAR      &kp SLASH  &trans  &trans
 &caps_word  &trans  &kp N4  &kp N5  &kp N6            &kp PAGE_UP      &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &trans  &trans
 &trans      &trans  &kp N1  &kp N2  &kp N3            &kp PAGE_DOWN    &trans          &trans         &trans        &trans     &trans  &kp RIGHT_COMMAND
-                            &trans  &kp LEFT_COMMAND  &kp SPACE        &kp RET         &kp RIGHT_ALT  &mo 3
+                            &trans  &kp LEFT_COMMAND  &kp SPACE        &kp RET         &kp RIGHT_ALT  &trans
             >;
         };
 
@@ -199,8 +199,8 @@
             bindings = <
 &trans  &kp EXCL  &kp AT          &kp HASH        &kp DLLR          &kp PRCNT    &kp CARET  &kp AMPS       &kp ASTRK  &kp LEFT_PARENTHESIS  &kp RPAR  &trans
 &trans  &trans    &trans          &kp UP_ARROW    &trans            &kp GRAVE    &kp MINUS  &kp EQUAL      &kp LBKT   &kp RBKT              &kp BSLH  &trans
-&trans  &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW   &kp TILDE    &kp UNDER  &kp PLUS       &kp LBRC   &kp RBRC              &kp PIPE  &trans
-                                  &mo 3           &kp LEFT_COMMAND  &kp ENTER    &kp RET    &kp RIGHT_ALT  &trans
+&trans  &trans    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW   &kp TILDE    &kp UNDER  &kp PLUS       &kp LBRC   &kp RBRC              &kp PIPE  &mo 3
+                                  &trans          &kp LEFT_COMMAND  &kp ENTER    &kp RET    &kp RIGHT_ALT  &trans
             >;
         };
 
