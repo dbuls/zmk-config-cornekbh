@@ -125,18 +125,6 @@
             layers = <0>;
         };
 
-        leftbrack {
-            bindings = <&kp LEFT_BRACKET>;
-            key-positions = <31 32>;
-            layers = <0>;
-        };
-
-        rightbrack {
-            bindings = <&kp RIGHT_BRACKET>;
-            key-positions = <33 32>;
-            layers = <0>;
-        };
-
         sticky_shift {
             bindings = <&sk LEFT_SHIFT>;
             key-positions = <15 16>;
