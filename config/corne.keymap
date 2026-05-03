@@ -141,7 +141,7 @@
 
         colon {
             bindings = <&none>;
-            key-positions = <8 21>;
+            key-positions = <31 20>;
         };
     };
 
