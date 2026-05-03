@@ -140,7 +140,7 @@
         };
 
         colon {
-            bindings = <&none>;
+            bindings = <&kp COLON>;
             key-positions = <31 20>;
         };
     };
