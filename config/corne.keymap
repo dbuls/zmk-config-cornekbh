@@ -143,6 +143,11 @@
             bindings = <&kp COLON>;
             key-positions = <31 20>;
         };
+
+        semicolon {
+            bindings = <&kp SEMI>;
+            key-positions = <19 8>;
+        };
     };
 
     //
