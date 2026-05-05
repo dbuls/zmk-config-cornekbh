@@ -114,13 +114,13 @@
 
         minus {
             bindings = <&kp KP_MINUS>;
-            key-positions = <18 30>;
+            key-positions = <31 32>;
             layers = <0>;
         };
 
         underscore {
             bindings = <&kp UNDER>;
-            key-positions = <19 31>;
+            key-positions = <33 32>;
             layers = <0>;
         };
 
